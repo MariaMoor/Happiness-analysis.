@@ -30,3 +30,19 @@ Making my analysis I came to the following results:
 3) GDP per capita, Social support and Healthy life expectancy are the main factors explaining happiness score. On the other hand, Freedom to make life choises and Generosity seem to have much less influence on Happiness of people, based on our datasets.
 
 4) Corona doesnt have much influence on the explanation of Happiness
+
+You can also find my results on Medium: https://medium.com/@mariamrfil/where-do-the-most-happy-people-live-8164449b4b54
+
+**Licensing, Authors, Acknowledgements**
+
+Must give credit to the original Authors of the World Happiness Report 2020:
+
+Editors: John Helliwell, Richard Layard, Jeffrey D. Sachs, and Jan Emmanuel De Neve, Co-Editors; Lara Aknin, Haifang Huang and Shun Wang, Associate Editors; and Sharon Paculor, Production Editor
+
+Citation:
+Helliwell, John F., Richard Layard, Jeffrey Sachs, and Jan-Emmanuel De Neve, eds. 2020. World Happiness Report 2020. New York: Sustainable Development Solutions Network
+
+The original data of COVID-19 data can be found on the following recources:
+https://github.com/CSSEGISandData/COVID-19
+https://www.worldometers.info/
+https://www.who.int/
