@@ -44,5 +44,7 @@ Helliwell, John F., Richard Layard, Jeffrey Sachs, and Jan-Emmanuel De Neve, eds
 
 The original data of COVID-19 data can be found on the following recources:
 https://github.com/CSSEGISandData/COVID-19
+
 https://www.worldometers.info/
+
 https://www.who.int/
